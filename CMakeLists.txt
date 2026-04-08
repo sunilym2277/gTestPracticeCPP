@@ -1,4 +1,4 @@
-cmake_minimum_required(version 3.8)
+cmake_minimum_required(version 3.11)
 
 set(This Example)
 
@@ -7,9 +7,9 @@ project(${This}  C CXX)
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_C_STANDARD 99)
 
-set(CMAKE_POSITION_INDEPENDENNT_CODE ON)
+set(CMAKE_POSITION_INDEPENDENT_CODE ON)
 
-enable_tetsting()
+enable_testing()
 
 add_subdirectory(googletest)
 
