@@ -1,4 +1,4 @@
-cmake_minimum_required(version 3.11)
+cmake_minimum_required(VER 3.11)
 
 set(This Example)
 

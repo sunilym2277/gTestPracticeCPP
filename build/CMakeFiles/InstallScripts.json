@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/Learning/CPP/GTest/build/cmake_install.cmake",
+		"D:/Learning/CPP/GTest/build/googletest/cmake_install.cmake",
+		"D:/Learning/CPP/GTest/build/googletest/googlemock/cmake_install.cmake",
+		"D:/Learning/CPP/GTest/build/googletest/googletest/cmake_install.cmake",
+		"D:/Learning/CPP/GTest/build/test/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
